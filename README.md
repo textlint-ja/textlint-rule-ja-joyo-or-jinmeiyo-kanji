@@ -54,8 +54,6 @@ The following creations are included in this product:
 - [人名用漢字一覧 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2%E5%AD%97%E4%B8%80%E8%A6%A7)
 - [人名用漢字 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2%E5%AD%97)
 
-Please see also [DISCLAIMER.md](https://github.com/hata6502/textlint-rule-ja-joyo-or-jinmeiyo-kanji/blob/master/DISCLAIMER.md).
-
 ## License
 
 CC-BY-SA-3.0 © Tomoyuki Hata
